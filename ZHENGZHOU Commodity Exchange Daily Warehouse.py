@@ -1,3 +1,6 @@
+#郑商所的仓单日报
+#下载成xls格式
+
 import datetime
 import os
 import requests
