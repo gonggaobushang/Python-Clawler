@@ -1,0 +1,6 @@
+# python的you-get包能很方便的下载众多包括外网的视频音乐图片等
+#不过得在终端下载
+
+# Win+R——cmd
+# pip install you_get
+# you-get -o c:\ https：...
