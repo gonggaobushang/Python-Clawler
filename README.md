@@ -20,3 +20,6 @@ http://www.dce.com.cn/publicweb/quotesdata/wbillWeeklyQuotes.html
 
 ## you get
 利用写好的you_get库在终端爬取视频等
+
+## jingdong.py
+用最基本的request库爬取京东商品信息
